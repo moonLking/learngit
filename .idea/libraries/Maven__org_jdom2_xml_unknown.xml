@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jdom2:xml:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jdom2/xml/unknown/xml-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jdom2/xml/unknown/xml-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jdom2/xml/unknown/xml-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
